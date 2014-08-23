@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
 
 This repo contains:
@@ -19,9 +18,4 @@ As only data for mean and standard deviation were requires i chose to use the gr
 As data was tidied and not created I chose not to rename variables from the original, which I found adequately descriptive.
 
 Since the tidy data was required to be saved in a txt file I chose to use melt and ddply to create a narrow data frame, which I find to tidier than wide data when viewed in programs such as notepad.
-=======
-run_analysis
-============
 
-course project for Coursera's Getting and Cleaning Data course
->>>>>>> df1bf0f55e90af4ae83311c096aa0285bba9ff84
